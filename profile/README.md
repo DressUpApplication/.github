@@ -39,11 +39,3 @@ We are driven by technology and creativity! Here’s what powers our app:
 We’re a growing team of passionate engineers, designers, and fashion enthusiasts building the future of personal styling. Follow our journey and stay updated with new releases and exciting features coming soon!
 
 Feel free to explore our repositories, contribute, and share your feedback. Together, let’s change the way we experience fashion! 💃🕺
-
----
-
-### Connect with Us
-- **Website:** [DressUp Website](https://dressup.ai)
-- **Contact:** contact@dressup.com
-
-We'd love to hear from you! 💬
