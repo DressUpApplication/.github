@@ -1,4 +1,4 @@
-# Welcome to DressUp 👗✨
+# Welcome to AURORA ✨
 
 At DressUp, we are revolutionizing the way you approach fashion and style through the power of **AI**. Our mission is to provide everyone with their very own **personal AI stylist**, offering recommendations tailored to your unique preferences, body type, and occasion, so you can look your best effortlessly.
 
